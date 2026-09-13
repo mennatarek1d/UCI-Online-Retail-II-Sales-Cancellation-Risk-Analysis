@@ -70,13 +70,6 @@ The business needs to understand what is driving revenue performance and where s
 
 ## Dashboards & Analytics Deep Dive
 
-> **Note for Reviewers:** Below are key snapshots comparing 2010 vs. 2011 performance. Click to expand and view the full visual breakdown.
-
-<details>
-<summary><b>Click here to view all 4 Dashboard Screenshots (Sales & Cancellations 2010–2011)</b></summary>
-
-<br>
-
 #### Sales Performance (2010 vs 2011)
 <table>
   <tr>
@@ -92,8 +85,6 @@ The business needs to understand what is driving revenue performance and where s
     <td width="50%"><img src="images/canselation/cancellation_2011.png" alt="Cancellations 2011"></td>
   </tr>
 </table>
-
-</details>
 ---
 
 ### Key Business Insights
